@@ -1,7 +1,7 @@
 # Bluecurve-KDE
 Red Hat Bluecurve theme ported to KDE Plasma 6.
 
-In this fork, there are 3 ready-to-use Aurorae window decorations and an improved version of the Bluecurve Plasma theme from the original fork.
+In this fork, there are 3 ready-to-use Aurorae window decorations and an improved version of the Bluecurve Plasma theme from the original fork. As of right now, there isn't a color-scheme compatible version of the Bluecurve window decorations yet.
 
 
 ## Requirements (Most of them are required for compiling the non-Aurorae decoration from the original, noted with an *)
